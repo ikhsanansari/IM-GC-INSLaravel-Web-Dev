@@ -1,4 +1,4 @@
 # IM-GC-INSLaravel-Web-Dev
-KUMPULAN TUGAS HARI KE 5 Dasar js |
+KUMPULAN TUGAS HARI KE 5 Dasar js | 
 KUMPULAN TUGAS HARI KE-6 DOM js | 
-KUMPULAN TUGAS HARI KE-7 PHP Dasar 1(string,array)
+KUMPULAN TUGAS HARI KE-7 PHP Dasar 1(string,array) 
